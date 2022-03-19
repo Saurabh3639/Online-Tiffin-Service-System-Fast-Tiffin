@@ -1,0 +1,14 @@
+div {
+    align-items: center;
+    justify-content: center;
+}
+
+#headline {
+    align-items: center;
+    justify-content: center;
+    margin-left: 1440px;
+}
+
+.containernew, .panel {
+    box-sizing: border-box;
+}
